@@ -1,0 +1,26 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#index-main {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;
+
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+    border: 1px solid black;
+    margin: 0 5px;
+    border-radius: 5px;
+}
